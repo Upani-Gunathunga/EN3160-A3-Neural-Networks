@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.pt
+*.pth
+*.zip
+en3160_assignment_03.pdf
